@@ -19,6 +19,9 @@ int timeElapsed = 0;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    // This is a simple comment to make sure that Xcode and Github are loving each other
+    
+    
     return YES;
 }
 
