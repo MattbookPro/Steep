@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Steep 
+
+  Created by Matthew on 6/23/13.
+  Copyright (c) 2013 MattbookPro Apps. All rights reserved.
+*/
+"facts" = "facts-ja";
+"TAP TIMER TO START" = "開始するには、上記のタップ";
+"TAP TIMER AGAIN TO START\nOR HOLD DOWN TO RESTART" = "スタートするには、もう一度タイマーをタップ\nまたは再起動押したまま";
+"START STEEPIN'..." = "浸漬開始...";
+"MINIMUM STEEP TIME REACHED" = "最小の急峻な時間に達した。";
+"All done!" = "行わ！";
+"Your tea has steeped.\nYou can now (safely) enjoy it." = "あなたのお茶が染み込んでいます。\nあなたは今、それを安全に楽しむことができます。";
+"OK" = "OK";
+"GREEN" = "緑";
+"WHITE" = "WHITE (白)";
+"BLACK" = "Black (黒)";
+"Herbal" = "Herbal (ハーブの)";
+"OOLONG" = "OOLONG (ウーロン茶)";
+"Yellow" = "Yellow (黄色)";

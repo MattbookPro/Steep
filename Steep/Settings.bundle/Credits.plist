@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Title</key>
+	<string>Credits</string>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>All code and design by Matthew Goff
+Special thanks to Andrea Forthun
+
+Special thanks to Utility Journal for steep times and temperatures (http://www.utilityjournal.com/tip-sheet-tea)
+
+Tea facts collected from these resources:
+http://www.utilityjournal.com/tip-sheet-tea
+http://www.teavana.com/tea-info/history-of-tea
+http://www.bigelowtea.com/universitea/history-of-tea.aspx
+http://en.wikipedia.org/wiki/Tea
+
+Copyright © 2013 Matthew Goff
+All rights reserved.</string>
+		</dict>
+	</array>
+</dict>
+</plist>

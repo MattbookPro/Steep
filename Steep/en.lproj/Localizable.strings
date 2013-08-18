@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Steep 
+
+  Created by Matthew on 6/23/13.
+  Copyright (c) 2013 MattbookPro Apps. All rights reserved.
+*/
+"facts" = "facts-en";
+"TAP TIMER TO START" = "TAP TIMER TO START";
+"TAP TIMER AGAIN TO START\nOR HOLD DOWN TO RESTART" = "TAP TIMER AGAIN TO START\nOR HOLD DOWN TO RESTART";
+"START STEEPIN'..." = "START STEEPIN'...";
+"MINIMUM STEEP TIME REACHED" = "MINIMUM STEEP TIME REACHED";
+"All done!" = "All done!";
+"Your tea has steeped.\nYou can now (safely) enjoy it." = "Your tea has steeped.\nYou can now (safely) enjoy it.";
+"OK" = "OK";
+"GREEN" = "GREEN";
+"WHITE" = "WHITE";
+"BLACK" = "Black";
+"Herbal" = "Herbal";
+"OOLONG" = "OOLONG";
+"Yellow" = "Yellow";

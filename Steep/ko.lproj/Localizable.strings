@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Steep 
+
+  Created by Matthew on 6/23/13.
+  Copyright (c) 2013 MattbookPro Apps. All rights reserved.
+*/
+"facts" = "facts-ko";
+"TAP TIMER AGAIN TO START" = "하려면 페이지 상단의 탭";
+"TAP TIMER AGAIN TO START\nOR HOLD DOWN TO RESTART" = "시작하려면 다시 살짝 누르십시오\n또는 다시 시작하려면 누른";
+"START STEEPIN'..." = "적시를 시작 ...";
+"MINIMUM STEEP TIME REACHED" = "최소 가파른 시간에 도달";
+"All done!" = "모두 다!";
+"Your tea has steeped.\nYou can now (safely) enjoy it." = "당신의 차 능통했다.\n이제 안전하게 즐길 수 있습니다.";
+"OK" = "OK";
+"GREEN" = "GREEN (녹색)";
+"WHITE" = "WHITE (화이트)";
+"BLACK" = "Black (흑인)";
+"Herbal" = "Herbal (허브)";
+"OOLONG" = "OOLONG (우롱)";
+"Yellow" = "Yellow (황색)";

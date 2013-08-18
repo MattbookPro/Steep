@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Steep 
+
+  Created by Matthew on 6/23/13.
+  Copyright (c) 2013 MattbookPro Apps. All rights reserved.
+*/
+
+"facts" = "facts-zh-Hans";
+"TAP TIMER TO START" = "点选启动定时器";
+"TAP TIMER AGAIN TO START\nOR HOLD DOWN TO RESTART" = "打计时器再次启动\n或持有它来重置";
+"START STEEPIN'..." = "开始注入...";
+"MINIMUM STEEP TIME REACHED" = "已达到的最低输注";
+"All done!" = "讫!";
+"Your tea has steeped.\nYou can now (safely) enjoy it." = "茶已被灌输。\n您现在可以安全地享受它。";
+"OK" = "OK";
+"GREEN" = "绿";
+"WHITE" = "白";
+"BLACK" = "黑";
+"Herbal" = "草本植物";
+"OOLONG" = "乌龙茶";
+"Yellow" = "黄";
